@@ -1,3 +1,4 @@
+# Exercise 1
 age = int(input("Enter your age: "))
 
 if age < 3:
@@ -10,3 +11,14 @@ else:
     price = 15
 
 print(f"The ticket price is ${price}.")
+
+# Exercise 2
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("The number is even.")
+else:
+    print("The number is odd.")
+
+
+
